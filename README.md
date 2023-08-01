@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Video
+https://watch.screencastify.com/v/b6aIflOiIZda0w2YP3nH 
+
 ## Table of Contents
 
 [Description](#description)
